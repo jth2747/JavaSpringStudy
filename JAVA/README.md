@@ -60,4 +60,4 @@
 </br>
 
 ## 🏃‍♀️ Contibutors
-
+[:star:최재용](https://github.com/headmeat) [👦김창현](https://github.com/ooprogramer) [👩정채은](https://github.com/superchae) [🧑정태현](https://github.com/jth2747) [🧒최성현](https://github.com/trevor522)
