@@ -7,4 +7,5 @@
 - 5명으로 구성되어 있습니다.
 
 ## 👉 바로가기
-[<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">](https://www.google.com/)
+[<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">](https://www.google.com/)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">](https://www.google.com/)
